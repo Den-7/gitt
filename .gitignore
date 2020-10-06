@@ -1,0 +1,4 @@
+#игнор файлов txt в папке docs
+docs/*.txt
+#игнор папки logs
+logs/
